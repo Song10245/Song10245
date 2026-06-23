@@ -1,16 +1,20 @@
-## Hi there 👋
+# Shanqi Song
 
-<!--
-**Song10245/Song10245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a PhD-trained robotics and spatial perception engineer based in London, with experience in SLAM, 3D mapping, visual-inertial localisation, LiDAR sensing, ROS and embedded robotic systems.
 
-Here are some ideas to get you started:
+My PhD research focused on lightweight sensing and mapping systems for GPS-denied indoor environments, including visual-inertial/LiDAR SLAM, time-of-flight obstacle detection and multi-modal geometric-radiometric mapping.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+
+- **Visual-Inertial LiDAR SLAM Airship**  
+  Public portfolio version of my PhD work on GPS-denied indoor 3D mapping using RealSense T265, RPLiDAR S1, ROS and Cartographer.
+
+- **Geometric-Radiometric Mapping**  
+  Multi-modal spatial mapping pipeline combining 3D reconstruction with gamma detector measurements.
+
+- **ToF Obstacle Detection Array**  
+  Ten-sensor VL53L1X time-of-flight array with BLE streaming for near-360-degree robotic obstacle detection.
+
+## Technical Areas
+
+SLAM, 3D reconstruction, visual-inertial odometry, LiDAR mapping, ROS, sensor fusion, embedded sensing, Python, C++, Linux.
