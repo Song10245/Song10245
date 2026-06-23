@@ -1,6 +1,6 @@
 # Shanqi Song
 
-I am a PhD-trained robotics and spatial perception engineer based in London, with experience in SLAM, 3D mapping, visual-inertial localisation, LiDAR sensing, ROS and embedded robotic systems.
+I am a robotics and spatial perception engineer with a PhD in Physics, based in London, with experience in SLAM, 3D mapping, visual-inertial localisation, LiDAR sensing, ROS and embedded robotic systems.
 
 My PhD research focused on lightweight sensing and mapping systems for GPS-denied indoor environments, including visual-inertial/LiDAR SLAM, time-of-flight obstacle detection and multi-modal geometric-radiometric mapping.
 
